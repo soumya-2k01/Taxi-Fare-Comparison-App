@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1090111794415",
+    "firebase_url": "https://taxi-app-7-default-rtdb.firebaseio.com",
+    "project_id": "taxi-app-7",
+    "storage_bucket": "taxi-app-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090111794415:android:d545acf26cc7600c333f1a",
+        "android_client_info": {
+          "package_name": "com.paarthbirla.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090111794415-7m864m386qhbctq3tahbhfum18o2p3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoztdLUtclFKZMs3_3lPXXYgw9FwinSkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090111794415-7m864m386qhbctq3tahbhfum18o2p3e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090111794415:android:2020fadaa9a76e4d333f1a",
+        "android_client_info": {
+          "package_name": "com.paarthbirla.taxifarecomparisionapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090111794415-7m864m386qhbctq3tahbhfum18o2p3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoztdLUtclFKZMs3_3lPXXYgw9FwinSkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090111794415-7m864m386qhbctq3tahbhfum18o2p3e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
